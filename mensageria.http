@@ -1,0 +1,6 @@
+@mensageria_HostAddress = http://localhost:5018
+
+GET {{mensageria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

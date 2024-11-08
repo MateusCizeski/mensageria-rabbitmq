@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\desenvMateus\\mensageria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAE8595-1961-42DA-904A-6BA37BAE1E7B}|mensageria.csproj|c:\\desenvmateus\\mensageria\\extensions\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAE8595-1961-42DA-904A-6BA37BAE1E7B}|mensageria.csproj|solutionrelative:extensions\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAE8595-1961-42DA-904A-6BA37BAE1E7B}|mensageria.csproj|c:\\desenvmateus\\mensageria\\controllers\\apiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAE8595-1961-42DA-904A-6BA37BAE1E7B}|mensageria.csproj|solutionrelative:controllers\\apiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAE8595-1961-42DA-904A-6BA37BAE1E7B}|mensageria.csproj|c:\\desenvmateus\\mensageria\\relatorios\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAE8595-1961-42DA-904A-6BA37BAE1E7B}|mensageria.csproj|solutionrelative:relatorios\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAE8595-1961-42DA-904A-6BA37BAE1E7B}|mensageria.csproj|c:\\desenvmateus\\mensageria\\mensageria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EAE8595-1961-42DA-904A-6BA37BAE1E7B}|mensageria.csproj|solutionrelative:mensageria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAE8595-1961-42DA-904A-6BA37BAE1E7B}|mensageria.csproj|c:\\desenvmateus\\mensageria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAE8595-1961-42DA-904A-6BA37BAE1E7B}|mensageria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppExtensions.cs",
+              "DocumentMoniker": "C:\\desenvMateus\\mensageria\\Extensions\\AppExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\AppExtensions.cs",
+              "ToolTip": "C:\\desenvMateus\\mensageria\\Extensions\\AppExtensions.cs",
+              "RelativeToolTip": "Extensions\\AppExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:43:24.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\desenvMateus\\mensageria\\Relatorios\\Lista.cs",
+              "RelativeDocumentMoniker": "Relatorios\\Lista.cs",
+              "ToolTip": "C:\\desenvMateus\\mensageria\\Relatorios\\Lista.cs",
+              "RelativeToolTip": "Relatorios\\Lista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:37:34.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mensageria",
+              "DocumentMoniker": "C:\\desenvMateus\\mensageria\\mensageria.csproj",
+              "RelativeDocumentMoniker": "mensageria.csproj",
+              "ToolTip": "C:\\desenvMateus\\mensageria\\mensageria.csproj",
+              "RelativeToolTip": "mensageria.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T00:32:55.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiEndpoints.cs",
+              "DocumentMoniker": "C:\\desenvMateus\\mensageria\\Controllers\\ApiEndpoints.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiEndpoints.cs",
+              "ToolTip": "C:\\desenvMateus\\mensageria\\Controllers\\ApiEndpoints.cs",
+              "RelativeToolTip": "Controllers\\ApiEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:33:19.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\desenvMateus\\mensageria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\desenvMateus\\mensageria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:32:16.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
