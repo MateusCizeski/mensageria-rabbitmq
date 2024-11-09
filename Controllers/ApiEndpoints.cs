@@ -1,4 +1,5 @@
-﻿using mensageria.Relatorios;
+﻿using MassTransit;
+using mensageria.Relatorios;
 
 namespace mensageria.Controllers
 {
@@ -6,7 +7,7 @@ namespace mensageria.Controllers
     {
         public static void AddApiEndPoints(this WebApplication app)
         {
-            app.MapPost("solicitar-relatorio/{name}", (string name) =>
+            app.MapPost("solicitar-relatorio/{name}", async (string name, IBus bus) =>
             {
                 var solicitacao = new SolicitacaoRelatorio()
                 {
@@ -17,6 +18,10 @@ namespace mensageria.Controllers
                 };
 
                 Lista.Relatorios.Add(solicitacao);
+
+                var eventRequest = new RelatorioSolicitadoEvent(solicitacao.Id, solicitacao.Name);
+
+                await bus.Publish(eventRequest);
 
                 return Results.Ok(solicitacao);
             });
